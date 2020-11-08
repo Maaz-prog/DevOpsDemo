@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>DevOpsDemo_NetCore</RootNamespace>
+    <UserSecretsId>9f9eddf6-b085-485a-b0ec-db82aa924354</UserSecretsId>
+  </PropertyGroup>
+
+</Project>
